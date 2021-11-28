@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Thanks for viewing my GitHub!
 
 <!--
 **kakuliniec/kakuliniec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
