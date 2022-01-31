@@ -5,6 +5,6 @@
 
 - 👯 I’m looking to collaborate on different/interesting projects
 - 💬 I love to learn new **languages**: I speak English, Swedish, Norwegian 🤓
-- 🔭 I’m currently working on [Task](https://github.com/kakuliniec/Task) and [Orange](https://github.com/kakuliniec/Orange)
+- 🔭 I’m currently working on [Patient](https://github.com/kakuliniec/patient) and [Orange](https://github.com/kakuliniec/Orange)
 - 😄 Pronouns: Sju sjösjuka sjömän sköttes av sju sköna sjuksköterskor. 
 - ⚡ Fun fact: I can write a book about funy facts from my life. 🙈
